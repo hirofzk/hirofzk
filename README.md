@@ -1,7 +1,9 @@
 ## Eai! Eu sou o Hiro 🕯️
-Atualmente sou estudante de ciência da computação!💻🧪
-Tenho 18 anos.🪔
-Estudando em (c)🌱
+
+- Atualmente sou estudante de ciência da computação!💻🧪
+- Tenho 18 anos.🪔
+- Estudando em (c)🌱
+
 Contate-me no email: arthurfuzikawa2@gmail.com 📫
 
 -->
